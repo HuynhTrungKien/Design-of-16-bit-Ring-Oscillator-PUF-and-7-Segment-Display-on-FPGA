@@ -10,12 +10,19 @@ The block diagram of the Ring Oscillator PUF (RO_PUF) consists of multiple ring 
 To generate a single output bit, at least two counters are required. Their outputs are compared through an arbiter. If the counter associated with MUX A reaches the threshold first, the output is set to logic 1; otherwise, it is set to logic 0. By concatenating multiple such units, a longer and more reliable bitstream can be produced.
 ## Implement
 <img width="182" height="590" alt="image" src="https://github.com/user-attachments/assets/a6711da8-ab5e-4458-9755-fa8faa0281c8" />
+
 After run RTL Analysis in Vivado we get this schemtatic. Then I generated bitstream and uploaded to boards. To clearly demonstrate the uniqueness of the design, the same HDL source code was implemented on two different FPGA boards: Basys-3 and EBAZ4205. Both boards were tested under identical conditions, using the same source code and the same challenge input sequence. The experimental results from the two platforms are compared to highlight the variations in the output bitstreams caused by inherent hardware differences. All related result images are presented in the following section.
+
 <img width="2560" height="1151" alt="image" src="https://github.com/user-attachments/assets/6106c9c4-e954-4b6b-9f53-cc6ae54e6dd1" />
+
 With challenge: 00000000
+
 <img width="2560" height="1151" alt="image" src="https://github.com/user-attachments/assets/53d2ecfe-889c-4547-9764-491cdca12c97" />
-With challenge: 00000001
+
+With challenge: 00000010
+
 ---
+
 ## Video demo
 
 ## Reference
