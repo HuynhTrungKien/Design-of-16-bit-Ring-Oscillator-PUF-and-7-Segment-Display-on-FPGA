@@ -29,6 +29,6 @@ https://www.youtube.com/watch?v=TkfwOgIiEaU
 
 ## Reference
 
-(https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/el.2019.0451)
+https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/el.2019.0451
 
 https://github.com/Justin5567/Ring-Oscillator-PUF
