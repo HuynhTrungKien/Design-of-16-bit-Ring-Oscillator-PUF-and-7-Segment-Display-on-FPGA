@@ -29,8 +29,6 @@ https://www.youtube.com/watch?v=TkfwOgIiEaU
 
 ## Reference
 
-[https://www.researchgate.net/profile/Pietro-Nannipieri-2/publication/377379395_A_PUF-Based_Secure_Boot_for_RISC-V_Architectures/links/671b74dd393e8533f716a397/A-PUF-Based-Secure-Boot-for-RISC-V-Architectures.pdf
-
-](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/el.2019.0451)
+(https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/el.2019.0451)
 
 https://github.com/Justin5567/Ring-Oscillator-PUF
